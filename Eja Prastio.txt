@@ -1,0 +1,26 @@
+1. Start Game:
+   - Inisiasi permainan, mulai dengan menampilkan pesan selamat datang dan petunjuk permainan.
+
+2. Player Input:
+   - Menerima input dari pemain berupa pilihan antara batu, kertas, atau gunting.
+
+3. Opponent's Choice:
+   - Generate secara acak pilihan lawan (komputer) antara batu, kertas, atau gunting.
+
+4. Determine Winner:
+   - Membandingkan pilihan pemain dan lawan untuk menentukan pemenang berdasarkan aturan suit Jepang.
+   - Aturan:
+     - Batu mengalahkan gunting.
+     - Gunting mengalahkan kertas.
+     - Kertas mengalahkan batu.
+
+5. Display Result:
+   - Menampilkan hasil permainan, apakah pemain menang, kalah, atau seri.
+
+6. Play Again:
+   - Menawarkan pemain opsi untuk bermain lagi.
+   - Jika pemain setuju, kembali ke langkah 2.
+   - Jika tidak, lanjutkan ke langkah 7.
+
+7. End Game:
+   - Mengakhiri permainan dengan menampilkan pesan penutup atau statistik akhir.
